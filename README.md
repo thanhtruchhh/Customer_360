@@ -71,4 +71,4 @@ The BCG matrix is used to map customer segments based on market share and market
 <img width="417" alt="loyal   casual" src="https://github.com/thanhtruchhh/Customer_360/assets/145547282/72252253-5c6e-4351-813c-fe56c4fb3891">
 
 ---
-*Read full [report] (https://github.com/thanhtruchhh/Customer_360/blob/main/RFM%20report.pdf) and [SQL query](https://github.com/thanhtruchhh/Customer_360/blob/main/RFM%20analysis.sql).*
+*Read full [report](https://github.com/thanhtruchhh/Customer_360/blob/main/RFM%20report.pdf) and [SQL query](https://github.com/thanhtruchhh/Customer_360/blob/main/RFM%20analysis.sql).*
